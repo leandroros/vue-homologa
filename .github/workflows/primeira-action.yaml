@@ -19,7 +19,7 @@ jobs:
               run: echo tudo certo
                         
               
-    deploy-site:
+    deploy-vue-homologa:
       runs-on: ubuntu-latest
       environment:
               name: vue-homologa
